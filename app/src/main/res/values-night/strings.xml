@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome to</string>
+    <string name="sign_in_to_continue">Sign in to continue...</string>
+    <string name="email_address">Email Address</string>
+    <string name="username_email_address">Username / Email Address</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="have_account">Don’t Have an account? Create Account</string>
+    <string name="i_have_an_account_sign_in">I have an account?  Sign In</string>
+</resources>
